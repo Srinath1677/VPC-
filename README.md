@@ -1,21 +1,21 @@
-IAM Working Overview
+# IAM Working Overview
 
-AIM
+# AIM
 
 IAM Working Overview
 
 This repository provides a comprehensive overview of Identity and Access Management (IAM), focusing on its purpose, components, and implementation practices in cloud and enterprise environments. The aim is to educate developers, system admins, and security teams on IAM essentials and offer a hands-on guide for setting up and managing IAM policies.
 
-Introduction
+# Introduction
 Identity and Access Management (IAM) is a framework of policies, technologies, and practices designed to manage digital identities and control access to resources. IAM helps ensure the right individuals have the right access to resources at the right time. It is crucial for securing sensitive data and resources in any organization, especially those operating in a cloud environment.
-Objectives
+# Objectives
 
 •	To understand the purpose and benefits of IAM
 •	To learn about the core components of IAM
 •	To gain hands-on experience setting up and managing IAM policies
 •	To explore best practices for enhancing security through IAM
 
-Prerequisites
+# Prerequisites
 
 Before diving into IAM, you should have a foundational understanding of:
 
@@ -24,7 +24,7 @@ Before diving into IAM, you should have a foundational understanding of:
 •	Programming (Python, Bash, or any language preferred for API interactions)
 •	Version Control (Git for managing this project)
 
-Core Components of IAM
+# Core Components of IAM
 
 IAM encompasses several core components that work together to provide secure access management:
 
@@ -34,7 +34,7 @@ IAM encompasses several core components that work together to provide secure acc
 •	Authentication: The process of verifying an identity, typically through credentials such as passwords or tokens.
 •	Authorization: Determines what an authenticated identity can access or modify, enforced through policies.
 
-IAM Best Practices
+# IAM Best Practices
 
 1.	Use the Principle of Least Privilege: Limit permissions to the minimum necessary.
 2.	Enable Multi-Factor Authentication (MFA): Protect against unauthorized access.
@@ -42,7 +42,7 @@ IAM Best Practices
 4.	Regularly Audit and Monitor Access Logs: Stay aware of access patterns and detect suspicious activities.
 5.	Rotate and Manage Access Keys Carefully: Reduce risks by rotating keys frequently.
 
-Setup Guide
+# Setup Guide
 
 1.	Configure IAM Roles and Policies
 
@@ -84,9 +84,31 @@ While IAM is essential for managing access control, it does have limitations:
 •	Complex policies can lead to unintended access if not configured carefully.
 •	Requires continuous auditing and updates as roles and permissions evolve.
 •	Proper training and understanding of IAM policies are critical for avoiding misconfigurations.
+# OUTPUT
 
+<img width="1213" height="495" alt="image" src="https://github.com/user-attachments/assets/e550e30b-f797-4ccb-a49a-152ec097301f" />
 
-Conclusion
+<img width="1205" height="575" alt="image" src="https://github.com/user-attachments/assets/b28ebfd1-f729-4c7e-b752-7b0637ecddb4" />
+
+<img width="1204" height="514" alt="image" src="https://github.com/user-attachments/assets/db4f96bb-68f2-49a6-93c7-c90934a128a9" />
+
+<img width="1215" height="547" alt="image" src="https://github.com/user-attachments/assets/5641b47e-56dc-438b-831a-e37f828ce516" />
+
+<img width="1207" height="565" alt="image" src="https://github.com/user-attachments/assets/46cddf13-9eaf-44a1-8f89-06288488712d" />
+
+<img width="1213" height="518" alt="image" src="https://github.com/user-attachments/assets/65b74af8-54e7-4690-82cf-6327f193bd12" />
+
+<img width="1213" height="518" alt="image" src="https://github.com/user-attachments/assets/34aeeebe-de05-46f0-95cc-c23bc875139c" />
+
+<img width="1217" height="507" alt="image" src="https://github.com/user-attachments/assets/186d33b4-a826-43b5-b804-6834916351be" />
+
+<img width="1202" height="549" alt="image" src="https://github.com/user-attachments/assets/5e932d19-6817-4e43-a45e-145a0c6f362e" />
+
+<img width="1907" height="817" alt="Screenshot 2026-08-17 095528" src="https://github.com/user-attachments/assets/fc64e673-d9ce-4b8c-9f8d-51fbc797d3d4" />
+
+<img width="1533" height="560" alt="Screenshot 2026-08-17 095638" src="https://github.com/user-attachments/assets/48f9aa01-6810-4907-9806-050db51b271a" />
+
+# Conclusion
 IAM is a foundational aspect of security in cloud environments, helping control and monitor access to resources effectively. By following best practices and regularly auditing IAM configurations, organizations can maintain robust access control, protecting their digital assets from unauthorized access.
 
 
